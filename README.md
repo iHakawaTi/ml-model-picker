@@ -24,7 +24,7 @@ ML-Model-Picker automates the often complex process of model selection by evalua
 -----
 
 ## 📂 Project Structure
-
+```
 ml-model-picker/
 ├── app.py             # Streamlit GUI application logic
 ├── requirements.txt   # List of Python dependencies
@@ -34,7 +34,7 @@ ml-model-picker/
 │   ├── evaluator.py     # Implements evaluation metrics and visualizations
 │   └── model_selector.py# Contains model training, tuning, and selection logic
 └── results/         # Directory for temporary results and generated visualizations
-
+```
 
 -----
 
