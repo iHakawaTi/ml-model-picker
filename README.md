@@ -33,6 +33,10 @@ ml-model-picker/
 │   ├── data_loader.py   # Handles data loading and preprocessing
 │   ├── evaluator.py     # Implements evaluation metrics and visualizations
 │   └── model_selector.py# Contains model training, tuning, and selection logic
+├──sample_data/
+│   ├── sample_classification.csv
+│   └── sample_regression.csv
+│   
 └── results/         # Directory for temporary results and generated visualizations
 ```
 
