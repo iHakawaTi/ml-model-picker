@@ -66,21 +66,21 @@ ml-model-picker/
 -----
 
 ### ▶️ Run the Application
+### 🔧 Launch the GUI
 
 ```bash
 streamlit run app.py
-This command will launch the ML-Model-Picker app in your web browser.
-
-🖥️ Key GUI Interactions
 ```
+🖥️ Key GUI Interactions
+
 - **Upload Dataset:** Easily upload your dataset in `.csv` format.
 - **Select Task Type:** Choose between "Classification" and "Regression" based on your prediction goal.
 - **Define Target Column:** Select the column in your dataset that you want to predict.
 - **(Optional) Enable Tuning:** Check the box to enable hyperparameter optimization using GridSearchCV for each evaluated model.
 - **Explore Results:** View performance metrics and insightful visualizations for each model.
 - **Download Best Model:** Click the button to download the highest-performing model as a `.pkl` file for future use.
-```
 
+---
 
 ## 🌐 Live Demo
 
