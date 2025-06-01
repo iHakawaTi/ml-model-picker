@@ -44,10 +44,10 @@ ml-model-picker/
 
 1.  **Clone the repository:**
 
-    ```bash
+    
     git clone [https://github.com/iHakawaTi/ml-model-picker.git](https://github.com/iHakawaTi/ml-model-picker.git)
     cd ml-model-picker
-    ```
+    
 
 2.  **Create and activate a virtual environment (recommended):**
 
