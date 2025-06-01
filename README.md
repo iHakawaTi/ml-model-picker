@@ -46,10 +46,11 @@ ml-model-picker/
 
     
     git clone [https://github.com/iHakawaTi/ml-model-picker.git](https://github.com/iHakawaTi/ml-model-picker.git)
+    ```bash
     cd ml-model-picker
-    
+    ```
 
-2.  **Create and activate a virtual environment (recommended):**
+3.  **Create and activate a virtual environment (recommended):**
 
     ```bash
     python -m venv .venv
@@ -57,7 +58,7 @@ ml-model-picker/
     .venv\Scripts\activate      # Windows
     ```
 
-3.  **Install the required Python packages:**
+4.  **Install the required Python packages:**
 
     ```bash
     pip install -r requirements.txt
